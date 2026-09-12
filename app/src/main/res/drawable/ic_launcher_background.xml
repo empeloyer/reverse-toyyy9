@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Deep teal-black, distinct from BOTH the original (#0B0E14 teal/near-black) and the
+     "Alpha" build's deep violet (#1A0E2E), so this Reversal-Zone build is visually
+     distinguishable in the app drawer / recents from either previously-installed
+     version when all three sit side by side on the same device. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="#0A1F1C" />
+</shape>
